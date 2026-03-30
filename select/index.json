@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "化け猫",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-03-30T09:41:13.158769Z",
+  "createdAt": "2026-03-30T13:03:31.755827Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,15 @@
       "artist": "キタニタツヤ",
       "has_synced": false,
       "path": "select/pl_01_化け猫_キタニタツヤ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "化け猫",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/localdb_01_化け猫_キタニタツヤ.lrc",
+      "repo_name": "lMZUE2SvF_c"
     }
   ]
 }
